@@ -1,0 +1,8 @@
+C:\Users\Lnkosi\source\repos\SignalR_WorkBench\Blazor_WorkBench\Shared\bin\Debug\netstandard2.1\Blazor_WorkBench.Shared.deps.json
+C:\Users\Lnkosi\source\repos\SignalR_WorkBench\Blazor_WorkBench\Shared\bin\Debug\netstandard2.1\Blazor_WorkBench.Shared.dll
+C:\Users\Lnkosi\source\repos\SignalR_WorkBench\Blazor_WorkBench\Shared\bin\Debug\netstandard2.1\Blazor_WorkBench.Shared.pdb
+C:\Users\Lnkosi\source\repos\SignalR_WorkBench\Blazor_WorkBench\Shared\obj\Debug\netstandard2.1\Blazor_WorkBench.Shared.AssemblyInfoInputs.cache
+C:\Users\Lnkosi\source\repos\SignalR_WorkBench\Blazor_WorkBench\Shared\obj\Debug\netstandard2.1\Blazor_WorkBench.Shared.AssemblyInfo.cs
+C:\Users\Lnkosi\source\repos\SignalR_WorkBench\Blazor_WorkBench\Shared\obj\Debug\netstandard2.1\Blazor_WorkBench.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lnkosi\source\repos\SignalR_WorkBench\Blazor_WorkBench\Shared\obj\Debug\netstandard2.1\Blazor_WorkBench.Shared.dll
+C:\Users\Lnkosi\source\repos\SignalR_WorkBench\Blazor_WorkBench\Shared\obj\Debug\netstandard2.1\Blazor_WorkBench.Shared.pdb

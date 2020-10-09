@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Server\\Blazor_WorkBench.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Client\\Blazor_WorkBench.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Client\\Blazor_WorkBench.Client.csproj",
+        "projectName": "Blazor_WorkBench.Client",
+        "projectPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Client\\Blazor_WorkBench.Client.csproj",
+        "packagesPath": "C:\\Users\\Lnkosi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lnkosi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Shared\\Blazor_WorkBench.Shared.csproj": {
+                "projectPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Shared\\Blazor_WorkBench.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Server\\Blazor_WorkBench.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Server\\Blazor_WorkBench.Server.csproj",
+        "projectName": "Blazor_WorkBench.Server",
+        "projectPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Server\\Blazor_WorkBench.Server.csproj",
+        "packagesPath": "C:\\Users\\Lnkosi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lnkosi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Client\\Blazor_WorkBench.Client.csproj": {
+                "projectPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Client\\Blazor_WorkBench.Client.csproj"
+              },
+              "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Shared\\Blazor_WorkBench.Shared.csproj": {
+                "projectPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Shared\\Blazor_WorkBench.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Shared\\Blazor_WorkBench.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Shared\\Blazor_WorkBench.Shared.csproj",
+        "projectName": "Blazor_WorkBench.Shared",
+        "projectPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Shared\\Blazor_WorkBench.Shared.csproj",
+        "packagesPath": "C:\\Users\\Lnkosi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lnkosi\\source\\repos\\SignalR_WorkBench\\Blazor_WorkBench\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lnkosi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
